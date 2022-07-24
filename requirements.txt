@@ -1,0 +1,6 @@
+jsonlines
+requests
+pyjwt
+pydantic
+stringcase
+pytest
